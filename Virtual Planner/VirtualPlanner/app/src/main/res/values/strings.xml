@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Virtual Planner</string>
+    <!-- Strings related to login -->
+
+    <string name="name">Virtual Planner</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+
+    <!-- Strings for adding an event -->
+    <string name="title_activity_add_event">AddEvent</string>
+    <string name="addevent">Add an Entry!</string>
+    <string name="event_prompt">Choose Type of Entry</string>
+
+    <string-array name="type_of_event">
+        <item>Assignment</item>
+        <item>Meeting</item>
+        <item>Test</item>
+        <item>Social Event</item>
+        <item>Other</item>
+    </string-array>
+</resources>
